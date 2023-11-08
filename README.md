@@ -6,8 +6,8 @@ Acosalens Python hands on guides are intended to be an open-source resource to l
 ## Table of Contents
 
 * Python 3.0
-  * Basics
-    * [Why Python](Account/00_Account_Basics.md)
+  * Introduction
+    * [What is Python and Why?](Basic/00_Basic.md/)
   
   * IAM
     * [IAM Basics](Identity_and_Access_Management(IAM)/00_IAM_Basics.md)
